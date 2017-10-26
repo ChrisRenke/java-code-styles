@@ -1,6 +1,6 @@
-REM Installs Square's IntelliJ configs into your user configs.
+REM Installs RiotSX's IntelliJ configs into your user configs.
 @echo off
-echo Installing Square IntelliJ configs...
+echo Installing RiotSX IntelliJ configs...
 
 setlocal enableDelayedExpansion
 
